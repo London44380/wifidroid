@@ -3,8 +3,7 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
-![generated-image](https://github.com/user-attachments/assets/7229d028-554e-4509-b51b-4d7935c0a53d)
-
+<img width="1516" height="1687" alt="generated-image(1)" src="https://github.com/user-attachments/assets/3e8bfd79-8bfe-4dae-9473-dbde5d3298ca" />
 
 **⚠️ FOR EDUCATIONAL AND AUTHORIZED TESTING ONLY ⚠️**
 
