@@ -9,7 +9,7 @@
 
 ## 🎯 About The Project
 
-**WifiDroid** is a powerful Android application designed for network security professionals and administrators to evaluate WiFi network resilience through controlled, high-frequency connection attempts. Built with Kotlin and leveraging Android's official `WifiNetworkSuggestion` API, this tool simulates connection spam attacks to identify potential DoS vulnerabilities in WiFi infrastructure [web:46][web:54].
+**WifiDroid** is a powerful Android application designed for network security professionals and administrators to evaluate WiFi network resilience through controlled, high-frequency connection attempts. Built with Kotlin and leveraging Android's official `WifiNetworkSuggestion` API, this tool simulates connection spam attacks to identify potential DoS vulnerabilities in WiFi infrastructure.
 
 ### 🔑 Key Differentiators
 
