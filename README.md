@@ -1,5 +1,5 @@
 [![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
-[![API](https://img.shields.io/badge/API-29%2B-brightgreen?style=for-the-badge)](https://android-arsenal.com/api?level=29)
+[![API](https://img.shields.io/badge/API%2B-brightgreen?style=for-the-badge)](https://android-arsenal.com/api?level=29)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
